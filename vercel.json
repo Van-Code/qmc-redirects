@@ -1,0 +1,24 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://slidingdoors.app",
+      "permanent": false
+    },
+    {
+      "source": "/a",
+      "destination": "https://slidingdoors.app?utm_source=sticker&utm_campaign=a",
+      "permanent": false
+    },
+    {
+      "source": "/b",
+      "destination": "https://slidingdoors.app?utm_source=sticker&utm_campaign=b",
+      "permanent": false
+    },
+    {
+      "source": "/c",
+      "destination": "https://slidingdoors.app?utm_source=sticker&utm_campaign=c",
+      "permanent": false
+    }
+  ]
+}
